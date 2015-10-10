@@ -1,3 +1,3 @@
 ### Wax
 
-A dead simple canvas app boilerplate. Uses Compass for SCSS compilation.
+A dead simple Three.js app boilerplate. Uses Compass for SCSS compilation.
